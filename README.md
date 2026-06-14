@@ -13,7 +13,7 @@ A machine learning pipeline that implements a Support Vector Machine (SVM) confi
 The optimization metrics, classification margins, and sample model outputs are automatically computed and rendered into your local storage outputs folder.
 
 ### 🪐 Evaluation & Matrix Breakdown
-![SVM Model Performance](outputs/svm_classifier_performance.png)
+![SVM Model Performance](outputs/task3_svm_dashboard.jpg)
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
